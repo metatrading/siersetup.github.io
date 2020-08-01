@@ -32,13 +32,17 @@ SIerの価値を認めている立場にあります。
 
 # PC Environment
 
-| Part | Spec | Spec Link |
-| --- | --- | --- |
-| Mother Board  | X570 AORUS MASTER  | [Spec Page](https://www.gigabyte.com/jp/Motherboard/X570-AORUS-MASTER-rev-10#kf) |
-| CPU  | AMD Ryzen 9 3950X 16-Core Processor | [Spec Page](https://www.amd.com/ja/products/cpu/amd-ryzen-9-3950x) |
-| Memory  | 32Gb DRAM  | [Spec Page](https://www.gskill.com/product/165/326/1562840073/F4-3600C16D-16GTZNC) |
-| Graphic Board  | GeForce RTX 2070 SUPER | [Spec Page](https://www.nvidia.com/ja-jp/geforce/graphics-cards/rtx-2070-super/) |
-| Disc  | CSSD-M2B1TPG3VNF 1TB | [Spec Page](https://www.cfd.co.jp/product/ssd/cssd-m2b1tpg3vnf/) |
+| test | test2 |
+| --- | --- |
+| a | b |
+
+| Part | Spec | Spec Link |  
+| --- | --- | --- |  
+| Mother Board  | X570 AORUS MASTER  | [Spec Page](https://www.gigabyte.com/jp/Motherboard/X570-AORUS-MASTER-rev-10#kf) |  
+| CPU  | AMD Ryzen 9 3950X 16-Core Processor | [Spec Page](https://www.amd.com/ja/products/cpu/amd-ryzen-9-3950x) |  
+| Memory  | 32Gb DRAM  | [Spec Page](https://www.gskill.com/product/165/326/1562840073/F4-3600C16D-16GTZNC) |  
+| Graphic Board  | GeForce RTX 2070 SUPER | [Spec Page](https://www.nvidia.com/ja-jp/geforce/graphics-cards/rtx-2070-super/) |  
+| Disc  | CSSD-M2B1TPG3VNF 1TB | [Spec Page](https://www.cfd.co.jp/product/ssd/cssd-m2b1tpg3vnf/) |  
 
 # Editor
 ## IntelliJ IDEA Ultimate
