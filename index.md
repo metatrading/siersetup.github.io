@@ -48,4 +48,4 @@ IntelliJ は最高のエディタです。
 ぜひCommunity Editionからでも触ってもらえるとその良さが分かるかと。
 
 # Link Test
-[リンク](readme.md)
+[リンク](readme.html)
