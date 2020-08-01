@@ -31,8 +31,9 @@ SIerの価値を認めている立場にあります。
 * Haskell
 
 # PC Environment
+
 | Part | Spec | Spec Link |
-| ------------- | ------------- | ------------- |
+| --- | --- | --- |
 | Mother Board  | X570 AORUS MASTER  | [Spec Page](https://www.gigabyte.com/jp/Motherboard/X570-AORUS-MASTER-rev-10#kf) |
 | CPU  | AMD Ryzen 9 3950X 16-Core Processor | [Spec Page](https://www.amd.com/ja/products/cpu/amd-ryzen-9-3950x) |
 | Memory  | 32Gb DRAM  | [Spec Page](https://www.gskill.com/product/165/326/1562840073/F4-3600C16D-16GTZNC) |
