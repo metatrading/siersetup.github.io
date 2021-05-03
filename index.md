@@ -47,5 +47,5 @@ IntelliJ は最高のエディタです。
 無料のエディタが台頭してきていますが、環境面の設定などはまだまだ甘く、コーディング自体のサポートもまだまだIntellijには遠く及びません。
 ぜひCommunity Editionからでも触ってもらえるとその良さが分かるかと。
 
-# Link Test
-[リンク](readme.html)
+# Writing
+[OIDCメモ](./doc/OIDC.md)
