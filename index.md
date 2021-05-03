@@ -15,20 +15,23 @@ SIerの価値を認めている立場にあります。
 * 2017〜 独立系小規模SIer
 * 2008〜 中堅ユーザ系SIer
 
+# Writing
+[OIDCメモ](./doc/OIDC.md)
+
 # Language of Experience
 * Java
 * JavaScript
 * TypeScript
 
-# Technology of interest
+# Technology of Interest
 * Micro Services
-* Micro Frontends
 * DDD
+* OIDC
 
-# Language of interest
+# Language of Interest
+* JavaScript
 * Rust
 * Kotlin
-* Haskell
 
 # PC Environment
 
@@ -47,5 +50,3 @@ IntelliJ は最高のエディタです。
 無料のエディタが台頭してきていますが、環境面の設定などはまだまだ甘く、コーディング自体のサポートもまだまだIntellijには遠く及びません。
 ぜひCommunity Editionからでも触ってもらえるとその良さが分かるかと。
 
-# Writing
-[OIDCメモ](./doc/OIDC.md)
