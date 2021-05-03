@@ -1,13 +1,13 @@
 # About Me
-SierSetupと名乗っています。
-SIerに在籍しており、経歴的にはSESによるPJメンバーレベルが多かったです。
+SIerSetupと名乗っています。  
+SIerに在籍しており、経歴的にはSESによるPJメンバーレベルが多かったです。  
 リーダー経験も1年ほどあり、その際には顧客対応から要件定義、リリース、24365気味の障害対応まで行いました。
 
-SIerの価値を認めている立場にあります。
-それと同時にフロントエンドが切り開いてきた技術に対しても敬意を持っています。
+SIerの価値を認めている立場にあります。  
+それと同時にWEB業界が切り開いてきた技術に対しても敬意を持っています。  
 そして、IT開発の歴史にも敬意を持っています。
 
-技術は好きですし、理想を追い求めて開拓され続けられるべきものであります。
+技術は好きですし、理想を追い求めて開拓され続けられるべきものであります。  
 その採用には必ずPOCなどを以て慎重に判断されるべきかと思います。
 
 # History
@@ -16,12 +16,41 @@ SIerの価値を認めている立場にあります。
 * 2008〜 中堅ユーザ系SIer
 
 # Writing
-[OIDCメモ](./doc/OIDC.md)
+* [OIDCメモ](./doc/OIDC.md)
+* [新人に向けて](doc/newcommer/index.md)
 
-# Language of Experience
+# Technology of Experience
+## Language
 * Java
 * JavaScript
 * TypeScript
+* VBA
+* Kotlin
+* SQL
+
+## Cloud
+* Firebase Authentication
+* Cloud Functions
+* AWS Cognito
+* AWS Code*
+
+## Middleware
+* Themistruct
+* Job Scheduler
+* JobCenter
+
+## Package
+* Intra-Mart
+* Agile Works
+* IBM Cognos
+
+# Certification
+* 基本情報技術者
+* 応用情報技術者
+* Oracle Database 13c Blonze
+* Oracle Java Programmer 8 Gold
+* ITIL Foundation
+* Scram Master
 
 # Technology of Interest
 * Micro Services
@@ -34,7 +63,6 @@ SIerの価値を認めている立場にあります。
 * Kotlin
 
 # PC Environment
-
 | Part | Spec | Spec Link |  
 |------|------|-----------|  
 | Mother Board  | X570 AORUS MASTER  | [Spec Page](https://www.gigabyte.com/jp/Motherboard/X570-AORUS-MASTER-rev-10#kf) |  
@@ -49,4 +77,3 @@ IntelliJ は最高のエディタです。
 有償のエディタとして今もなおアップデートがあり、開発体験は素晴らしいものです。
 無料のエディタが台頭してきていますが、環境面の設定などはまだまだ甘く、コーディング自体のサポートもまだまだIntellijには遠く及びません。
 ぜひCommunity Editionからでも触ってもらえるとその良さが分かるかと。
-
