@@ -47,9 +47,9 @@ SIerの価値を認めている立場にあります。
 # Certification
 * 基本情報技術者
 * 応用情報技術者
-* Oracle Database 13c Blonze
+* Oracle Database 13c Bronze
 * Oracle Java Programmer 8 Gold
-* ITIL Foundation
+* ITIL Foundation (V3-2011
 * Scram Master
 
 # Technology of Interest
