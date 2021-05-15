@@ -17,7 +17,8 @@ SIerの価値を認めている立場にあります。
 
 # Writing
 * [OIDCメモ](./doc/OIDC.md)
-* [新人に向けて](doc/newcommer/index.md)
+* [新人に向けて](./doc/newcommer/index.md)
+
 
 # Technology of Experience
 ## Language
@@ -35,6 +36,7 @@ SIerの価値を認めている立場にあります。
 * AWS Code*
 
 ## Middleware
+* Keycloak
 * Themistruct
 * Job Scheduler
 * JobCenter
@@ -43,13 +45,14 @@ SIerの価値を認めている立場にあります。
 * Intra-Mart
 * Agile Works
 * IBM Cognos
+* Motion Board
 
 # Certification
 * 基本情報技術者
 * 応用情報技術者
 * Oracle Database 13c Bronze
 * Oracle Java Programmer 8 Gold
-* ITIL Foundation (V3-2011
+* ITIL Foundation (V3-2011)
 * Scram Master
 
 # Technology of Interest
