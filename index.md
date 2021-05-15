@@ -63,6 +63,7 @@ SIerの価値を認めている立場にあります。
 * Kotlin
 
 # PC Environment
+
 | Part | Spec | Spec Link |  
 |------|------|-----------|  
 | Mother Board  | X570 AORUS MASTER  | [Spec Page](https://www.gigabyte.com/jp/Motherboard/X570-AORUS-MASTER-rev-10#kf) |  
