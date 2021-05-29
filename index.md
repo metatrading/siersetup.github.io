@@ -16,6 +16,7 @@ SIerの価値を認めている立場にあります。
 * 2008〜 中堅ユーザ系SIer
 
 # Writing
+* [COCOAはなぜ失敗したのか。](https://qiita.com/SierSetup/items/00fd8fde88d846b08979)
 * [OIDCメモ](./doc/OIDC.md)
 * [新人に向けて](./doc/newcommer/index.md)
 
