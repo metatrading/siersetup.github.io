@@ -19,7 +19,8 @@ SIerの価値を認めている立場にあります。
 * [COCOAの開発経緯について調べた](https://qiita.com/SierSetup/items/00fd8fde88d846b08979)
 * [OIDCメモ](./doc/OIDC.md)
 * [新人に向けて](./doc/newcommer/index.md)
-* [チーム運営をしてみて_1](./doc/blog/1.md)
+
+[comment]: <> (* [チーム運営をしてみて_1]&#40;./doc/blog/1.md&#41;)
 
 
 # Technology of Experience
