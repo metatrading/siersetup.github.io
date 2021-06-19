@@ -16,12 +16,22 @@ SIerの価値を認めている立場にあります。
 * 2008〜 中堅ユーザ系SIer
 
 # Writing
+## Qiita
+https://qiita.com/SierSetup  
+メモを書くことが多いです。
+## GitHub
 * [COCOAの開発経緯について調べた](https://qiita.com/SierSetup/items/00fd8fde88d846b08979)
 * [OIDCメモ](./doc/OIDC.md)
 * [新人に向けて](./doc/newcommer/index.md)
 
 [comment]: <> (* [チーム運営をしてみて_1]&#40;./doc/blog/1.md&#41;)
 
+主観のたっぷり入った記事が多いです。
+
+## note
+https://note.com/siersetup
+
+バズを狙った記事を増やしていきます。
 
 # Technology of Experience
 ## Language
