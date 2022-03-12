@@ -110,9 +110,9 @@ https://note.com/siersetup
 | Memory  | 32Gb DRAM TRIDENT Z neo             | [Spec Page](https://www.gskill.com/product/165/326/1562840073/F4-3600C16D-16GTZNC) |  
 | Graphic Board  | GeForce RTX 2070 SUPER              | [Spec Page](https://www.nvidia.com/ja-jp/geforce/graphics-cards/rtx-2070-super/)   |  
 | Disc  | CSSD-M2B1TPG3VNF 1TB                | [Spec Page](https://www.cfd.co.jp/product/ssd/cssd-m2b1tpg3vnf/)                   |  
-| Power | RM850                               | [Spec Page]()                                                                      |
-| Cool | Nuxt                                | [Spec Page]()|
-| Case | Fractal Design DFINE R6 USB-C       | [SpecPage]()                                                                       | 
+| Power | CORSAIR RM850                       | [Spec Page](https://www.corsair.com/ja/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC/%E8%A3%BD%E5%93%81/%E9%9B%BB%E6%BA%90%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88/%E4%B8%8A%E7%B4%9A%E9%9B%BB%E6%BA%90%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88/RM-Series%E2%84%A2-80-PLUS-Gold-Power-Supplies/p/CP-9020196-JP)                                                                      |
+| Cool | KRAKEN X62 RL-KRX62-01              | [Spec Page](https://nzxt.jp/products/detail/newkraken.html)|
+| Case | Fractal Design DEFINE R6 USB-C      | [SpecPage](https://www.fractal-design.com/ja/products/cases/define/define-r6-usb-c-2/blackout/)                                                                       | 
 
 # Editor
 
