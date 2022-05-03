@@ -1,6 +1,6 @@
 # About Me
 
-SIerSetupと名乗っています。  
+OmeletteCurry19と名乗っています。  
 SIerに在籍しており、経歴的にはSESによるPJメンバーレベルが多かったです。  
 リーダー経験も1年ほどあり、その際には顧客対応から要件定義、リリース、24365気味の障害対応まで行いました。
 
@@ -25,6 +25,8 @@ https://qiita.com/SierSetup
 メモを書くことが多いです。  
 検索エンジンに対して強いため、雑にメモを上げても誰かの役に立つことはあるでしょう。 個人記事としては、構築系、一問一答の問題対応メモが受けているようです。
 
+* [CSPとは](https://qiita.com/OmeletteCurry19/items/df2432c03c68f16a7483)
+* [ETagとは](https://qiita.com/OmeletteCurry19/items/a84d6a7c91df50e7dcd6)
 * [COCOAの開発経緯について調べた](https://qiita.com/SierSetup/items/00fd8fde88d846b08979)  
   最も時間を掛けた記事。技術記事ではないですが・・・。 調べた中で色々な人物が登場し、その方々の立ち位置、意思などに感銘を受けました。
   特にOpenCACAOの方々は、批判的な見方を取りつつも、COCOAそのものについてはボランティアデバッグという立場で関わっており、清濁併せ呑むという姿勢には尊敬の念を抱かざるを得ません。
@@ -41,12 +43,6 @@ https://qiita.com/SierSetup
 [comment]: <> (* [チーム運営をしてみて_1]&#40;./doc/blog/1.md&#41;)
 
 主観のたっぷり入った記事が多いです。
-
-## note
-
-https://note.com/siersetup
-
-バズを狙った記事を増やしていきます。
 
 # Technology of Experience
 
@@ -84,6 +80,7 @@ https://note.com/siersetup
 
 * 基本情報技術者
 * 応用情報技術者
+* aws solution architect associate
 * Oracle Database 13c Bronze
 * Oracle Java Programmer 8 Gold
 * ITIL Foundation (V3-2011)
