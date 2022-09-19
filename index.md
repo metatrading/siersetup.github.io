@@ -99,7 +99,7 @@ https://qiita.com/OmeletteCurry19
 * Kotlin
 
 # PC Environment
-
+## Server
 | Part | Spec                                | Spec Link                                                                          |  
 |------|-------------------------------------|------------------------------------------------------------------------------------|  
 | Mother Board  | X570 AORUS MASTER                   | [Spec Page](https://www.gigabyte.com/jp/Motherboard/X570-AORUS-MASTER-rev-10#kf)   |  
@@ -111,8 +111,19 @@ https://qiita.com/OmeletteCurry19
 | Cool | KRAKEN X62 RL-KRX62-01              | [Spec Page](https://nzxt.jp/products/detail/newkraken.html)|
 | Case | Fractal Design DEFINE R6 USB-C      | [SpecPage](https://www.fractal-design.com/ja/products/cases/define/define-r6-usb-c-2/blackout/)                                                                       | 
 
+## Lab
+Mac Mini 2020 
+CPU: Apple M1Tip
+Mem: 16Gb
+## Board
+Nuc 
+CPU: インテル® Core™ i5-4250U プロセッサー @ 1.30GHz ※ 2core, 4thread
+Mem: 12Gb
+## DB Server
+Nuc
+CPU: Intel(R) Celeron(R) CPU  N3050  @ 1.60GHz ※2core, 2thread
+Mem: 8Gb
 # Editor
-
 ## IntelliJ IDEA Ultimate
 
 IntelliJ は最高のエディタです。 有償のエディタとして今もなおアップデートがあり、開発体験は素晴らしいものです。
