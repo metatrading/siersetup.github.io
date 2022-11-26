@@ -99,31 +99,40 @@ https://qiita.com/OmeletteCurry19
 * Kotlin
 
 # PC Environment
+
 ## Server
-| Part | Spec                                | Spec Link                                                                          |  
-|------|-------------------------------------|------------------------------------------------------------------------------------|  
-| Mother Board  | X570 AORUS MASTER                   | [Spec Page](https://www.gigabyte.com/jp/Motherboard/X570-AORUS-MASTER-rev-10#kf)   |  
-| CPU  | AMD Ryzen 9 3950X 16-Core Processor | [Spec Page](https://www.amd.com/ja/products/cpu/amd-ryzen-9-3950x)                 |  
-| Memory  | 32Gb DRAM TRIDENT Z neo             | [Spec Page](https://www.gskill.com/product/165/326/1562840073/F4-3600C16D-16GTZNC) |  
-| Graphic Board  | GeForce RTX 2070 SUPER              | [Spec Page](https://www.nvidia.com/ja-jp/geforce/graphics-cards/rtx-2070-super/)   |  
-| Disc  | CSSD-M2B1TPG3VNF 1TB                | [Spec Page](https://www.cfd.co.jp/product/ssd/cssd-m2b1tpg3vnf/)                   |  
-| Power | CORSAIR RM850                       | [Spec Page](https://www.corsair.com/ja/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC/%E8%A3%BD%E5%93%81/%E9%9B%BB%E6%BA%90%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88/%E4%B8%8A%E7%B4%9A%E9%9B%BB%E6%BA%90%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88/RM-Series%E2%84%A2-80-PLUS-Gold-Power-Supplies/p/CP-9020196-JP)                                                                      |
-| Cool | KRAKEN X62 RL-KRX62-01              | [Spec Page](https://nzxt.jp/products/detail/newkraken.html)|  
-| Case | Fractal Design DEFINE R6 USB-C      | [SpecPage](https://www.fractal-design.com/ja/products/cases/define/define-r6-usb-c-2/blackout/)| 
+
+| Part          | Spec                                 | Spec Link                                                                                                                                                                                                                                                                                                  |
+|:--------------|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Mother Board  | X570 AORUS MASTER                    | [Spec Page](https://www.gigabyte.com/jp/Motherboard/X570-AORUS-MASTER-rev-10#kf)                                                                                                                                                                                                                           |
+| CPU           | AMD Ryzen 9 3950X 16-Core Processor  | [Spec Page](https://www.amd.com/ja/products/cpu/amd-ryzen-9-3950x)                                                                                                                                                                                                                                         |
+| Memory        | 32Gb DRAM TRIDENT Z neo              | [Spec Page](https://www.gskill.com/product/165/326/1562840073/F4-3600C16D-16GTZNC)                                                                                                                                                                                                                         |
+| Graphic Board | GeForce RTX 2070 SUPER               | [Spec Page](https://www.nvidia.com/ja-jp/geforce/graphics-cards/rtx-2070-super/)                                                                                                                                                                                                                           |
+| Disc          | CSSD-M2B1TPG3VNF 1TB                 | [Spec Page](https://www.cfd.co.jp/product/ssd/cssd-m2b1tpg3vnf/)                                                                                                                                                                                                                                           |
+| Power         | CORSAIR RM850                        | [Spec Page](https://www.corsair.com/ja/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC/%E8%A3%BD%E5%93%81/%E9%9B%BB%E6%BA%90%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88/%E4%B8%8A%E7%B4%9A%E9%9B%BB%E6%BA%90%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88/RM-Series%E2%84%A2-80-PLUS-Gold-Power-Supplies/p/CP-9020196-JP) |
+| Cool          | KRAKEN X62 RL-KRX62-01               | [Spec Page](https://nzxt.jp/products/detail/newkraken.html)                                                                                                                                                                                                                                                |
+| Case          | Fractal Design DEFINE R6 USB-C       | [SpecPage](https://www.fractal-design.com/ja/products/cases/define/define-r6-usb-c-2/blackout/)                                                                                                                                                                                                            |
 
 ## Lab
-Mac Mini 2020 
+
+Mac Mini 2020
 CPU: Apple M1Tip
 Mem: 16Gb
+
 ## Board
-Nuc 
+
+Nuc
 CPU: インテル® Core™ i5-4250U プロセッサー @ 1.30GHz ※ 2core, 4thread
 Mem: 12Gb
+
 ## DB Server
+
 Nuc
-CPU: Intel(R) Celeron(R) CPU  N3050  @ 1.60GHz ※2core, 2thread
+CPU: Intel(R) Celeron(R) CPU N3050 @ 1.60GHz ※2core, 2thread
 Mem: 8Gb
+
 # Editor
+
 ## IntelliJ IDEA Ultimate
 
 IntelliJ は最高のエディタです。 有償のエディタとして今もなおアップデートがあり、開発体験は素晴らしいものです。
