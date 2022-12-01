@@ -115,25 +115,31 @@ https://qiita.com/OmeletteCurry19
 
 ## Lab
 
-Mac Mini 2020
-CPU: Apple M1Tip
-Mem: 16Gb
+Mac Mini 2020  
+CPU: Apple M1Tip  
+Mem: 16Gb  
 
 ## Board
 
-Nuc
-CPU: インテル® Core™ i5-4250U プロセッサー @ 1.30GHz ※ 2core, 4thread
+Windows Dev Kit 2023  
+CPU: Snapdragon® 8cx Gen 3 コンピューティング プラットフォ―ム  
+Mem: 32Gb  
+
+## Board old
+
+Nuc  
+CPU: インテル® Core™ i5-4250U プロセッサー @ 1.30GHz ※ 2core, 4thread  
 Mem: 12Gb
 
 ## DB Server
 
-Nuc
-CPU: Intel(R) Celeron(R) CPU N3050 @ 1.60GHz ※2core, 2thread
-Mem: 8Gb
+Nuc  
+CPU: Intel(R) Celeron(R) CPU N3050 @ 1.60GHz ※2core, 2thread  
+Mem: 8Gb  
 
 # Editor
 
 ## IntelliJ IDEA Ultimate
 
-IntelliJ は最高のエディタです。 有償のエディタとして今もなおアップデートがあり、開発体験は素晴らしいものです。
+IntelliJ は最高のエディタです。 有償のエディタとして今もなおアップデートがあり、開発体験は素晴らしいものです。  
 無料のエディタが台頭してきていますが、環境面の設定などはまだまだ甘く、コーディング自体のサポートもまだまだIntellijには遠く及びません。 ぜひCommunity Editionからでも触ってもらえるとその良さが分かるかと。
