@@ -1,53 +1,80 @@
 # About Me
+高木　智史（SATOSHI TAKAGI）
 
-OmeletteCurry19と名乗っています。  
-SIerに在籍しており、経歴的にはSESによるPJメンバーレベルが多かったです。  
-リーダー経験も1年ほどあり、その際には顧客対応から要件定義、リリース、24365気味の障害対応まで行いました。
+# お仕事のご依頼
+お仕事のご依頼は、[こちら](mailto:siroikutu@gmail.com)  からお願いいたします。
+会社に所属しているため、副業という形でお受けいたします。  
+稼働は土曜日を中心に考えており、8h/日を目安にお受けいたします。  
+基本的には1ヶ月で最大4日の稼働となりますが、ご相談に応じますので、お気軽にご相談ください。
 
-SIerの価値を認めている立場にあります。  
-それと同時にWEB業界が切り開いてきた技術に対しても敬意を持っています。  
-そして、IT開発の歴史にも敬意を持っています。
+## お受けできるお仕事の範囲
+### PJのサポート
+* 成果物の定義やPJの進め方の定義のサポート
 
-技術は好きですし、理想を追い求めて開拓され続けられるべきものであります。  
-その採用には必ずPOCなどを以て慎重に判断されるべきかと思います。
+### 提案工程のサポート
+* 提案ベンダー資料のレビュー
 
-# History
+### 要件定義工程のサポート
+* システム要件定義
+* システム概要設計
 
-* 2020〜 大手ユーザ系SIer
+### 基本設計の実施
+* システム規模によりますが、基本設計の一部〜全ての実施が可能です
+
+# 経歴
+
+* 2020〜 大手ユーザ系SIer（お問合せ頂いた際に必要にお知らせさせていただきます）
+  * 大手事業者様BtoC向けPJ
+    * 認証基盤再構築（PM/PL）
+    * 会員管理システム再構築（PM）
+    * SSOおよびプロビジョニングシステム構築（PM）
+    * サブスクリプション管理システム構築（PM）
+  * 整備工場とリース会社を繋ぐ整備工場向けワンストップシステム開発（PL）
 * 2017〜 独立系小規模SIer
+  * 大手不動産事業者様向け基幹システム刷新（設計、実装）
+  * 大手鉄道事業者様向け整備システム構築（設計、実装）
 * 2008〜 中堅ユーザ系SIer
+  * 大手通信キャリア様向け社内ワークフローシステム刷新（PL）
 
-# Writing
+## 経験Role
+* PM
+* PL
+* アーキテクト
+  * WEBアプリケーション
+  * バッチ処理
 
-## Qiita
+## 得意領域
+* Webアプリケーションの要件定義
+* バッチ処理の要件定義
+* SpringBootを用いたWebアプリケーション開発
+  * Thymeleafをベースとしたサーバサイドレンダリングアプリケーション
+* OIDCベースの認証技術導入
+* Amplifyを用いたSPA開発
 
-https://qiita.com/OmeletteCurry19  
-メモを書くことが多いです。  
-検索エンジンに対して強いため、雑にメモを上げても誰かの役に立つことはあるでしょう。 個人記事としては、構築系、一問一答の問題対応メモが受けているようです。
+# ポートフォリオ
+## Urgent Notes
+[Urgent Notes](https://static.urgent-notes.com)  
+高速に登録できるTODOアプリケーション。
+### 参考記事
+[個人開発アプリUrgent Notesの技術構成](https://qiita.com/UrgentNotes/items/7ce9ebccd990a0039ee7)
 
-* [CSPとは](https://qiita.com/OmeletteCurry19/items/df2432c03c68f16a7483)
-* [ETagとは](https://qiita.com/OmeletteCurry19/items/a84d6a7c91df50e7dcd6)
-* [COCOAの開発経緯について調べた](https://qiita.com/SierSetup/items/00fd8fde88d846b08979)  
-  最も時間を掛けた記事。技術記事ではないですが・・・。 調べた中で色々な人物が登場し、その方々の立ち位置、意思などに感銘を受けました。
-  特にOpenCACAOの方々は、批判的な見方を取りつつも、COCOAそのものについてはボランティアデバッグという立場で関わっており、清濁併せ呑むという姿勢には尊敬の念を抱かざるを得ません。
+# 経験工程
+## 要件定義
+パワーポイントやExcelを用いた要件定義を実施可能です。  
+必要工程の検討や進め方の定義などから擦り合わせも可能です。
+## 基本設計
+* ER図作成
+* UMLを利用した基本設計
+* Excelを用いた画面設計
+* その他の設計要素の設計・管理指針の提案
+## 詳細設計
+* Excelを用いた詳細設計
+* マークダウン形式の詳細設計
+  
+## 実装
+言語の一覧で対応可能な言語を一覧化しております。
 
-## GitHub
-
-* [OIDCメモ](./doc/OIDC.md)
-* [新人に向けて](./doc/newcommer/index.md)
-
-### 書評
-
-* [デザインパターンとともに学ぶオブジェクト指向のこころ ](./doc/review/デザインパターンとともに学ぶオブジェクト指向のこころ.md)
-
-[comment]: <> (* [チーム運営をしてみて_1]&#40;./doc/blog/1.md&#41;)
-
-主観のたっぷり入った記事が多いです。
-
-# Technology of Experience
-
-## Language
-
+## 言語
 * Java
 * JavaScript
 * TypeScript
@@ -55,91 +82,50 @@ https://qiita.com/OmeletteCurry19
 * Kotlin
 * SQL
 
-## Cloud
-
+## クラウド経験
+* AWS 全般
+  * ECS/Fargate
+  * Lambda
+  * S3
+  * RDS
+  * Amplify
+  * Cognito
+  * CloudFront
+  * CloudWatch
 * Firebase Authentication
 * Cloud Functions
 * AWS Cognito
 * AWS Code*
 
-## Middleware
-
+## ミドルウェア経験
 * Keycloak
-* Themistruct
+* ThemiStruct
 * Job Scheduler
 * JobCenter
 
-## Package
-
+## パッケージ経験
 * Intra-Mart
 * Agile Works
 * IBM Cognos
 * Motion Board
 
-# Certification
-
+# 認定・資格
 * 基本情報技術者
 * 応用情報技術者
-* aws solution architect associate
+* AWS Solution Architect Associate
 * Oracle Database 13c Bronze
 * Oracle Java Programmer 8 Gold
 * ITIL Foundation (V3-2011)
 * Scram Master
 
-# Technology of Interest
-
+# 技術興味分野
+* ID
+  * OIDC
 * Micro Services
 * DDD
-* OIDC
 
-# Language of Interest
-
+# 言語興味分野
+* TypeScript
 * JavaScript
-* Rust
 * Kotlin
-
-# PC Environment
-
-## Server
-
-| Part          | Spec                                 | Spec Link                                                                                                                                                                                                                                                                                                  |
-|:--------------|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mother Board  | X570 AORUS MASTER                    | [Spec Page](https://www.gigabyte.com/jp/Motherboard/X570-AORUS-MASTER-rev-10#kf)                                                                                                                                                                                                                           |
-| CPU           | AMD Ryzen 9 3950X 16-Core Processor  | [Spec Page](https://www.amd.com/ja/products/cpu/amd-ryzen-9-3950x)                                                                                                                                                                                                                                         |
-| Memory        | 32Gb DRAM TRIDENT Z neo              | [Spec Page](https://www.gskill.com/product/165/326/1562840073/F4-3600C16D-16GTZNC)                                                                                                                                                                                                                         |
-| Graphic Board | GeForce RTX 2070 SUPER               | [Spec Page](https://www.nvidia.com/ja-jp/geforce/graphics-cards/rtx-2070-super/)                                                                                                                                                                                                                           |
-| Disc          | CSSD-M2B1TPG3VNF 1TB                 | [Spec Page](https://www.cfd.co.jp/product/ssd/cssd-m2b1tpg3vnf/)                                                                                                                                                                                                                                           |
-| Power         | CORSAIR RM850                        | [Spec Page](https://www.corsair.com/ja/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC/%E8%A3%BD%E5%93%81/%E9%9B%BB%E6%BA%90%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88/%E4%B8%8A%E7%B4%9A%E9%9B%BB%E6%BA%90%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88/RM-Series%E2%84%A2-80-PLUS-Gold-Power-Supplies/p/CP-9020196-JP) |
-| Cool          | KRAKEN X62 RL-KRX62-01               | [Spec Page](https://nzxt.jp/products/detail/newkraken.html)                                                                                                                                                                                                                                                |
-| Case          | Fractal Design DEFINE R6 USB-C       | [SpecPage](https://www.fractal-design.com/ja/products/cases/define/define-r6-usb-c-2/blackout/)                                                                                                                                                                                                            |
-
-## Lab
-
-Mac Mini 2020  
-CPU: Apple M1Tip  
-Mem: 16Gb  
-
-## Board
-
-Windows Dev Kit 2023  
-CPU: Snapdragon® 8cx Gen 3 コンピューティング プラットフォ―ム  
-Mem: 32Gb  
-
-## Board old
-
-Nuc  
-CPU: インテル® Core™ i5-4250U プロセッサー @ 1.30GHz ※ 2core, 4thread  
-Mem: 12Gb
-
-## DB Server
-
-Nuc  
-CPU: Intel(R) Celeron(R) CPU N3050 @ 1.60GHz ※2core, 2thread  
-Mem: 8Gb  
-
-# Editor
-
-## IntelliJ IDEA Ultimate
-
-IntelliJ は最高のエディタです。 有償のエディタとして今もなおアップデートがあり、開発体験は素晴らしいものです。  
-無料のエディタが台頭してきていますが、環境面の設定などはまだまだ甘く、コーディング自体のサポートもまだまだIntellijには遠く及びません。 ぜひCommunity Editionからでも触ってもらえるとその良さが分かるかと。
+* Rust
