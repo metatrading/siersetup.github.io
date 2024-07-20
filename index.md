@@ -1,6 +1,13 @@
 # About Me
 高木　智史（SATOSHI TAKAGI）
 
+# 自己紹介
+大手SIerに所属しているITエンジニアです。  
+普段は、PM,PL業務を行っています。  
+
+得意分野はJava, SpringBootを用いたWebアプリケーション開発です。  
+OIDCを用いた認証技術の導入や、Amplifyを用いたSPA開発も行っています。  
+
 # お仕事のご依頼
 お仕事のご依頼は、[こちら](mailto:siroikutu@gmail.com)  からお願いいたします。
 会社に所属しているため、副業という形でお受けいたします。  
