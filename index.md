@@ -1,3 +1,4 @@
+{% include head-custom-google-analytics.html %}
 # About Me
 高木　智史（SATOSHI TAKAGI）
 
